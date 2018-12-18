@@ -4,6 +4,9 @@ isaac.json
 # tmp folder
 tmp
 
+# logs folder
+logs
+
 # virtual environment
 venv
 
