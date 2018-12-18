@@ -1,0 +1,22 @@
+{
+  "influxdb": {
+      "host": "scrooge",
+      "port": 8086,
+      "user": "donald",
+      "password": "duck",
+      "database": "goofy",
+      "maxLinesPerInsert": 5000,
+      "waitAfterInsert": 1,
+      "measurementGeneration": "mickey",
+      "measurementCrossBorderFlow": "mouse"
+  },
+  "entsoe": {
+      "host": "sftp-transparency.entsoe.eu",
+      "port": 22,
+      "user": "entsoe_user",
+      "password": "xxxxx",
+      "remotePathGeneration": "/TP_export/zip/AggregatedGenerationPerType",
+      "remotePathCrossBorderFlow": "/TP_export/zip/CrossBorderPhysicalFlow",
+      "localPath": "tmp"
+  }
+}

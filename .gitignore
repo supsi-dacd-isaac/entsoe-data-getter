@@ -1,0 +1,11 @@
+# conf file
+isaac.json
+
+# tmp folder
+tmp
+
+# virtual environment
+venv
+
+# .idea folder
+.idea
