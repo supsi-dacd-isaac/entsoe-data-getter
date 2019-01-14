@@ -1,8 +1,3 @@
-# entsoe-data-getter
-Script to get data via SFTP from https://transparency.entsoe.eu/
+# entsoe-data-getter.
 
-# Usage:
-
-<pre>
-# python3 importer.py -c conf/isaac.json
-</pre>
+The project code is now maintained in the following repository: https://gitlab.com/supsi-dacd-isaac/entsoe-data-getter.
